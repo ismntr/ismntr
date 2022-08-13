@@ -1,5 +1,6 @@
 ### Hi there 👋
-I am ismet.
+##I am ismet. 
+🌱 I’m currently learning C#
 
 
 <!--
