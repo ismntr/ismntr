@@ -1,6 +1,6 @@
-### Hi there 👋
-###I am ismet. 
-🌱 I’m currently learning C#
+### Hi there 👋 I am ismet. 
+🌱 I’m currently learning C# and JS
+
 
 
 <!--
