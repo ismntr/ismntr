@@ -1,5 +1,5 @@
 ### Hi there 👋 I am ismet. 
-🌱 I’m currently learning C# and JS
+🌱 I’m currently learning Python, C# and JS
 
 
 
