@@ -1,5 +1,8 @@
 ### Hi there 👋 I am ismet. 
-🌱 I’m currently learning Python, C# and JS
+🌱 I’m currently coding Python, C# and JS.
+🔭 I’m currently working on SAP Fiori and Data Science Projects
+🤔 I’m looking for help with AI
+💬 Ask me about new technologies
 
 
 
